@@ -1,7 +1,5 @@
 # Informe Técnico de Planificación y Alcance: Sistema de Movimiento del Autómata (Rol A)
-
-**Para:** Sofía Pérez  
-**De:** Franco  
+ 
 **Fecha:** 20 de noviembre de 2026  
 **Proyecto:** Synapxix — Prototipo Web HD-2D (Primera Etapa)  
 **Módulo Asignado:** Rol A: Lógica de Movimiento, Navegación Isométrica, Cámara y Accesibilidad (*El Autómata*)
